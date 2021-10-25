@@ -4,6 +4,8 @@ public class ggTCalculatorV3 {
 
     public static void main(String[] args) {
         System.out.println("ggT(1978,2021) = " + ggT(1978, 2021));
+        System.out.println("ggT(1978,2021) = " + ggT(0, 2021));
+        System.out.println("ggT(1978,2021) = " + ggT(1978, 0));
     }
 
     public static int ggT(int number1, int number2){
