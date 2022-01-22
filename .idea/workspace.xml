@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="270026cf-8c2c-4caa-98ec-b637c053e6b6" name="Changes" comment="U02">
-      <change afterPath="$PROJECT_DIR$/src/Tests/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uebungen/U_05/U03_A02/Seminar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uebungen/U_05/U03_A02/Seminarverwaltung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uebungen/U_05/U03_A02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebungen/U_11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uebungen/U_11/UnknownSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/ADsArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/ADsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/doublylinked/ADsDLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/doublylinked/ADsDListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/linkedvariant1/ADsLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/linkedvariant1/ADsListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/linkedvariant2/ADsLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uebungen/U_06/U06_A01/list/linkedvariant2/ADsListNode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="204wGR3TDWGUTJuG38hNKyBENgJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,7 +57,20 @@
       <recent name="$PROJECT_DIR$/src/Uebungen/U_03" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uebungen.U_11.Main" />
+      <module name="Ads-HS-Co-Se3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Uebungen.U_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_Exponentialfunktion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uebungen.U_03.U03_A3.Test_Exponentialfunktion" />
       <module name="Ads-HS-Co-Se3" />
@@ -61,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test_Exponentialfunktion" />
       </list>
     </recent_temporary>
@@ -79,6 +105,7 @@
       <workItem from="1637496427527" duration="1589000" />
       <workItem from="1637564858619" duration="473000" />
       <workItem from="1638193123554" duration="1348000" />
+      <workItem from="1642861078129" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="U03">
       <created>1635881201056</created>
@@ -110,7 +137,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="U03" />
